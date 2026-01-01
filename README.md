@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=VIM4L-M&label=Visitors&color=brightgreen&style=for-the-badge)
 - 👋 Hi, I’m VIMAL-M
 - 👀 I’m interested in Web dev, Backend dev
 - 💞️ I’m looking forward to learn more & collaborate on Backend code
