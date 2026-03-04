@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=VIM4L-M&label=Visitors&color=brightgreen&style=for-the-badge)
-- 👋 Hi, I’m VIMAL-M
-- 👀 I’m interested in Web dev, Backend dev
-- 💞️ I’m looking forward to learn more & collaborate on Backend code
-- 📫 Reach me on vimal.manikandan07@gmail.com
+- 👋 Hi, I’m VIMAL
+-  A Passionate developer from India
+-  I’m looking forward to learn more & collaborate on Backend code
+-  Reach me on vimal.manikandan07@gmail.com
 Learn... learn... learn... and don't forget to Commit..✌
 
 <!---
